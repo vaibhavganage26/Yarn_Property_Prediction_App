@@ -1,2 +1,3 @@
-# Yarn_Property_Prediction_App
-Yarn Property Prediction App
+# predictionapp
+
+https://rushikeshjoharkar7-final-year-project-app-srb2vu.streamlit.app/
